@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Travis Bebout</title>
+    <link>http://travisbebout.com/posts/</link>
+    <description>Recent content in Posts on Travis Bebout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Aug 2020 20:15:08 -0400</lastBuildDate>
+    
+	<atom:link href="http://travisbebout.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>My Third Post</title>
+      <link>http://travisbebout.com/posts/my-third-post/</link>
+      <pubDate>Wed, 12 Aug 2020 20:15:08 -0400</pubDate>
+      
+      <guid>http://travisbebout.com/posts/my-third-post/</guid>
+      <description>test</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>My Second Post</title>
+      <link>http://travisbebout.com/posts/my-second-post/</link>
+      <pubDate>Tue, 11 Aug 2020 20:36:53 -0400</pubDate>
+      
+      <guid>http://travisbebout.com/posts/my-second-post/</guid>
+      <description>test</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://travisbebout.com/posts/my-first-post/</link>
+      <pubDate>Tue, 11 Aug 2020 20:36:41 -0400</pubDate>
+      
+      <guid>http://travisbebout.com/posts/my-first-post/</guid>
+      <description>test</description>
+    </item>
+    
+    
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+baseURL = "http://travisbebout.com/"
+languageCode = "en-us"
+title = "Travis Bebout"
+theme = "etch"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 20
